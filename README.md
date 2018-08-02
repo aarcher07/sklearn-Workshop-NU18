@@ -8,7 +8,7 @@ This workshop requires packages: **sklearn, pandas, numpy, pickle and matplotlib
 
 ## Presentation
 
-The presentation is available **[here](https://northwestern.box.com/s/xyd5pr4mftdghjge6v0dp4ja0yolyyzm).
+The presentation is available [here](https://northwestern.box.com/s/xyd5pr4mftdghjge6v0dp4ja0yolyyzm).
 
 ## Downloading Files
 
