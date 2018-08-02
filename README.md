@@ -6,6 +6,10 @@
 
 This workshop requires packages: **sklearn, pandas, numpy, pickle and matplotlib**. Although not required, it would be great if you had the **[graphviz](https://graphviz.gitlab.io/download/)** package.
 
+## Presentation
+
+The presentation is available **[here](https://northwestern.box.com/s/xyd5pr4mftdghjge6v0dp4ja0yolyyzm).
+
 ## Downloading Files
 
 ### Recommended: Entire directory
