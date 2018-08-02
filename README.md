@@ -2,6 +2,9 @@
 
 [Research Computing Services](http://www.it.northwestern.edu/research/) workshop materials for Scikit-learn.
 
+## Packages
+
+This workshop requires packages: **sklearn, pandas, numpy, pickle and matplotlib**. Although not required, it would be great if you had the **[graphviz](https://graphviz.gitlab.io/download/)** package.
 
 ## Downloading Files
 
