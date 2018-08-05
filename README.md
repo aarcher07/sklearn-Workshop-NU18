@@ -31,6 +31,8 @@ To download just the exercise files, right-click on the links below, and choose 
 ## Additional Exercises
 
 [RCS Stats models and scikit-learn Workshop 2017](https://github.com/nuitrcs/python-models) by Christina Maimone
+
+
 [Machine learning with scikit-learn](https://github.com/mpfrush/Python-Scikit-Learn-Exercises)
 
 ## Resources
