@@ -28,6 +28,10 @@ To download just the exercise files, right-click on the links below, and choose 
 
 [Exercises WITH Answers](https://raw.githubusercontent.com/aarcher07/sklearn_workshop_NU18/master/sklearn_workshop_NU2018_with_answers.ipynb)
 
+## Additional Exercises
+
+[RCS Stats models and scikit-learn Workshop 2017](https://github.com/nuitrcs/python-models) by Christina Maimone
+[Machine learning with scikit-learn](https://github.com/mpfrush/Python-Scikit-Learn-Exercises)
 
 ## Resources
 
